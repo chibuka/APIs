@@ -1,3 +1,6 @@
+"""
+__author__ = "Marouane"
+"""
 from flask import Flask, redirect, request, session
 import requests
 
